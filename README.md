@@ -1,1 +1,1 @@
-#Simple app to test the QGeoJson member functions.
+# Simple app to test the QGeoJson member functions.
